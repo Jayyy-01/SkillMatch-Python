@@ -249,7 +249,3 @@ Potential improvements for future versions include:
 **Jayasree P**
 
 GitHub: [@Jayyy-01](https://github.com/Jayyy-01)
-
-## License
-
-This project is available for learning and educational purposes. A formal open-source license can be added if permissions for redistribution and reuse need to be defined.
