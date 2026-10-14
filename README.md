@@ -2,6 +2,10 @@
 
 A beginner-friendly, object-oriented Python application that evaluates how well a student's technical skills align with job requirements. It identifies matching and missing skills, calculates a skill match percentage, and generates a structured analysis report.
 
+## Project Links
+
+- **GitHub Repository:** [SkillMatch-Python](https://github.com/Jayyy-01/SkillMatch-Python)
+
 ## Overview
 
 SkillMatch-Python helps students understand how their existing technical skills compare with the requirements of a particular job role.
