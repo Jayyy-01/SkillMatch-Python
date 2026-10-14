@@ -33,12 +33,12 @@ The project demonstrates core Python Object-Oriented Programming (OOP) concepts 
 ```text
 SkillMatch-Python/
 │
-├── main.py          # Application entry point and test scenarios
-├── models.py        # Student and job profile classes
-├── analyzers.py     # Skill analysis and matching logic
-├── manager.py       # Coordinates analysis and generates reports
-├── README.md        # Project documentation
-└── .gitignore       # Excludes unnecessary files from version control
+├── main.py         
+├── models.py        
+├── analyzers.py     
+├── manager.py       
+├── README.md        
+└── .gitignore       
 ```
 
 ## Technology Stack
